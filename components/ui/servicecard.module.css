@@ -1,0 +1,22 @@
+.servicecard {
+    padding: 10px 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap: 20px;
+    border: 1px solid #d3d3d3; 
+    border-radius: 20px;
+    width: 250px;
+    height: 100px;
+    padding: 20px;
+}
+
+.servicecardTitle {
+    color: cornflowerblue;
+    font-size: 20px;
+    font-weight: 600;
+}
+.servicecardPara {
+    color: aliceblue;
+    font-size: 12px;
+}
